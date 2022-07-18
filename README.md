@@ -162,5 +162,5 @@ Press any key to close this window . . .
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.  **An electronic pdf (punetidLab13Dictionary.pdf) 
+2.  **An electronic pdf (punetidLab13STLDictionary.pdf) 
 of your program is to be emailed to ryandj@pacificu.edu**
