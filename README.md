@@ -39,7 +39,7 @@ struct Word {
 };
 </pre>
 
-Clone the repository for Lab13 using the link on Moodle. There are five
+Clone the repository for Lab12 using the link on Moodle. There are five
 functions that need to be written to successfully complete this lab and
 they are:
 
